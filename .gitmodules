@@ -1,0 +1,6 @@
+[submodule "vendor/SameBoy"]
+	path = vendor/SameBoy
+	url = https://github.com/LIJI32/SameBoy.git
+[submodule "vendor/vst3sdk"]
+	path = vendor/vst3sdk
+	url = https://github.com/steinbergmedia/vst3sdk.git
